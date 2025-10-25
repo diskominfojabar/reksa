@@ -98,13 +98,13 @@ These scripts implement **21+ major security improvements** including:
 ```bash
 # 1. Download the appropriate script
 # Rocky Linux 10:
-wget [https://raw.githubusercontent.com/diskominfojabar/linux-hardener/refs/heads/main/rocky-hardened.sh](https://raw.githubusercontent.com/diskominfojabar/linux-hardener/refs/heads/main/rocky-hardened.sh)
+wget https://raw.githubusercontent.com/diskominfojabar/linux-hardener/refs/heads/main/rocky-hardened.sh
 
 # Debian 12:
-wget [https://raw.githubusercontent.com/diskominfojabar/linux-hardener/refs/heads/main/debian-hardened.sh](https://raw.githubusercontent.com/diskominfojabar/linux-hardener/refs/heads/main/debian-hardened.sh)
+wget https://raw.githubusercontent.com/diskominfojabar/linux-hardener/refs/heads/main/debian-hardened.sh
 
 # Ubuntu LTS:
-wget [https://raw.githubusercontent.com/diskominfojabar/linux-hardener/refs/heads/main/ubuntu-hardened.sh](https://raw.githubusercontent.com/diskominfojabar/linux-hardener/refs/heads/main/ubuntu-hardened.sh)
+wget https://raw.githubusercontent.com/diskominfojabar/linux-hardener/refs/heads/main/ubuntu-hardened.sh
 # 2. Make executable
 chmod +x *-hardened.sh
 
