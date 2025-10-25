@@ -98,23 +98,22 @@ These scripts implement **21+ major security improvements** including:
 ```bash
 # 1. Download the appropriate script
 # Rocky Linux 10:
-wget https://your-server.com/rocky-10-enhanced.sh
+wget [https://raw.githubusercontent.com/diskominfojabar/linux-hardener/refs/heads/main/rocky-hardened.sh](https://raw.githubusercontent.com/diskominfojabar/linux-hardener/refs/heads/main/rocky-hardened.sh)
 
 # Debian 12:
-wget https://your-server.com/debian-12-hardening.sh
+wget [https://raw.githubusercontent.com/diskominfojabar/linux-hardener/refs/heads/main/debian-hardened.sh](https://raw.githubusercontent.com/diskominfojabar/linux-hardener/refs/heads/main/debian-hardened.sh)
 
 # Ubuntu LTS:
-wget https://your-server.com/ubuntu-lts-hardening.sh
-
+wget [https://raw.githubusercontent.com/diskominfojabar/linux-hardener/refs/heads/main/ubuntu-hardened.sh](https://raw.githubusercontent.com/diskominfojabar/linux-hardener/refs/heads/main/ubuntu-hardened.sh)
 # 2. Make executable
-chmod +x *-hardening.sh
+chmod +x *-hardened.sh
 
 # 3. Run the script
-sudo bash rocky-10-enhanced.sh
+sudo bash rocky-hardened.sh
 # OR
-sudo bash debian-12-hardening.sh
+sudo bash debian-hardened.sh
 # OR
-sudo bash ubuntu-lts-hardening.sh
+sudo bash ubuntu-hardened.sh
 
 # 4. Test SSH in NEW terminal (DON'T CLOSE CURRENT ONE!)
 ssh -p 1022 user@your-server-ip
