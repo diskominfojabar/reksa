@@ -6,20 +6,20 @@
 
 ## 📋 TABLE OF CONTENTS
 
-1. [Overview](#overview)
-2. [Supported Operating Systems](#supported-operating-systems)
-3. [Features Matrix](#features-matrix)
-4. [Quick Start Guide](#quick-start-guide)
-5. [Pre-Installation Checklist](#pre-installation-checklist)
-6. [Installation Instructions](#installation-instructions)
-7. [Post-Installation Verification](#post-installation-verification)
-8. [Customization Guide](#customization-guide)
-9. [OS-Specific Details](#os-specific-details)
-10. [Monitoring & Maintenance](#monitoring--maintenance)
-11. [Troubleshooting](#troubleshooting)
-12. [Rollback Procedures](#rollback-procedures)
-13. [Security Improvements Breakdown](#security-improvements-breakdown)
-14. [FAQ](#faq)
+1. [Overview](#-overview)
+2. [Supported Operating Systems](#-supported-operating-systems)
+3. [Features Matrix](#-features-matrix)
+4. [Quick Start Guide](#-quick-start-guide)
+5. [Pre-Installation Checklist](#-pre-installation-checklist)
+6. [Installation Instructions](#-installation-instructions)
+7. [Post-Installation Verification](#-post-installation-verification)
+8. [Customization Guide](#-customization-guide)
+9. [OS-Specific Details](#-os-specific-details)
+10. [Monitoring & Maintenance](#-monitoring--maintenance)
+11. [Troubleshooting](#-troubleshooting)
+12. [Rollback Procedures](#-rollback-procedures)
+13. [Security Improvements Breakdown](#-security-improvements-breakdown)
+14. [FAQ](#-faq)
 
 ---
 
