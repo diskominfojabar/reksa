@@ -47,7 +47,7 @@ PACKAGES=(
   net-tools      # Alat jaringan legacy (ifconfig, netstat)
   lsof           # Menampilkan file yang terbuka oleh proses
   tcpdump        # Sniffer paket jaringan
-  htop           # Monitoring proses interaktif
+  btop           # Monitoring proses interaktif
   strace         # Debug proses dan syscall
   sysstat        # Statistik sistem (iostat, mpstat)
   ncdu           # Analisis penggunaan disk
@@ -72,6 +72,7 @@ PACKAGES=(
   clamav         # Antivirus open source
   clamav-freshclam # Update definisi virus
   lynis          # Audit keamanan sistem
+  python3-pip    # PIP3
 )
 
 # Penyesuaian nama paket per OS
