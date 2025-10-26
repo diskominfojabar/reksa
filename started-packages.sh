@@ -73,6 +73,16 @@ PACKAGES=(
   clamav-freshclam # Update definisi virus
   lynis          # Audit keamanan sistem
   python3-pip    # PIP3
+  epel-release   # Extra Package for Enterprise Linux (RHEL-based)
+  clamav-server
+  clamav-data
+  clamav-update
+  clamav-filesystem
+  clamav
+  clamav-scanner-systemd
+  clamav-devel
+  clamav-lib
+  clamav-server-systemd
 )
 
 # Penyesuaian nama paket per OS
