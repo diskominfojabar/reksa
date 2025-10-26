@@ -217,32 +217,6 @@ Overall Score: 95+ / 100
 
 ---
 
-## 📖 Documentation
-
-### Comprehensive Guides
-
-1. **[DEBIAN-UBUNTU-HARDENING-GUIDE.md](DEBIAN-UBUNTU-HARDENING-GUIDE.md)**
-   - 28KB comprehensive guide
-   - Target & fitur lengkap
-   - Cara penggunaan step-by-step
-   - Troubleshooting guide
-   - Best practices
-   - FAQ lengkap
-
-2. **[FITUR-BARU-V5.md](FITUR-BARU-V5.md)**
-   - Detail fitur Rocky Linux v5.0
-   - Penjelasan immutable files
-   - Legal banner configuration
-   - Testing procedures
-
-3. **[QUICK-REFERENCE.md](QUICK-REFERENCE.md)**
-   - Cheat sheet untuk semua scripts
-   - One-liner commands
-   - Emergency recovery
-   - Quick troubleshooting
-
----
-
 ## 🔧 Compatibility
 
 ### Operating Systems
