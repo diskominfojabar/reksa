@@ -1,8 +1,8 @@
-# 🛡️ Linux Server Hardening Scripts v5.0
+# 🛡️ REKSA Hardened Script
 
-## Ultimate Security Hardening untuk Rocky Linux, Debian & Ubuntu
+## Rancangan Eliminasi Kerentanan agar Sistem Aman
 
-[![Version](https://img.shields.io/badge/version-5.0-blue.svg)](https://github.com/diskominfojabar/linux-hardener)
+[![Version](https://img.shields.io/badge/version-5.0-blue.svg)](https://github.com/diskominfojabar/reksa)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Security](https://img.shields.io/badge/security-95%2B-brightgreen.svg)](https://cisofy.com/lynis/)
 
@@ -108,13 +108,13 @@ chmod +x rocky-hardened.sh
 
 **Debian:**
 ```bash
-wget https://github.com/diskominfojabar/linux-hardener/debian-hardened.sh
+wget https://github.com/diskominfojabar/reksa/debian-hardened.sh
 chmod +x debian-hardened.sh
 ```
 
 **Ubuntu:**
 ```bash
-wget https://github.com/diskominfojabar/linux-hardener/ubuntu-hardened.sh
+wget https://github.com/diskominfojabar/reksa/ubuntu-hardened.sh
 chmod +x ubuntu-hardened.sh
 ```
 
@@ -403,7 +403,7 @@ Contributions are welcome! Please:
 
 ### Official Support
 - **Email:** noc@jabarprov.go.id
-- **Issues:** https://github.com/diskominfojabar/linux-hardener/issues
+- **Issues:** https://github.com/diskominfojabar/reksa/issues
 - **Documentation:** Full guides included
 
 ### Community
@@ -490,7 +490,7 @@ For more information, please refer to <https://unlicense.org>
 
 If this project helps you secure your servers, please consider giving it a ⭐!
 
-[![Star History](https://api.star-history.com/svg?repos=diskominfojabar/linux-hardener/hardening-scripts&type=Date)](https://star-history.com/#diskominfojabar/linux-hardener/hardening-scripts&Date)
+[![Star History](https://api.star-history.com/svg?repos=diskominfojabar/reksa/hardening-scripts&type=Date)](https://star-history.com/#diskominfojabar/reksa/hardening-scripts&Date)
 
 ---
 
@@ -529,9 +529,9 @@ If this project helps you secure your servers, please consider giving it a ⭐!
 
 | Resource | Link |
 |----------|------|
-| 📥 **Download Scripts** | [Releases](https://github.com/diskominfojabar/linux-hardener/releases) |
+| 📥 **Download Scripts** | [Releases](https://github.com/diskominfojabar/reksa/releases) |
 | 📖 **Full Documentation** | [Docs](DEBIAN-UBUNTU-HARDENING-GUIDE.md) |
-| 🐛 **Report Issues** | [Issues](https://github.com/diskominfojabar/linux-hardener/issues) |
+| 🐛 **Report Issues** | [Issues](https://github.com/diskominfojabar/reksa/issues) |
 | 📧 **Email Support** | noc@jabarprov.go.id |
 
 ---
