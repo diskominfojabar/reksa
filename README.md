@@ -102,19 +102,19 @@ Repositori ini berisi **3 script hardening** dan **3 dokumentasi lengkap** untuk
 
 **Rocky Linux:**
 ```bash
-wget https://raw.githubusercontent.com/diskominfojabar/reksa/rocky-hardening.sh
+wget https://raw.githubusercontent.com/diskominfojabar/reksa/refs/heads/main/rocky-hardening.sh
 chmod +x rocky-hardened.sh
 ```
 
 **Debian:**
 ```bash
-wget https://github.com/diskominfojabar/reksa/debian-hardened.sh
+wget https://github.com/diskominfojabar/reksa/refs/heads/main/debian-hardened.sh
 chmod +x debian-hardened.sh
 ```
 
 **Ubuntu:**
 ```bash
-wget https://github.com/diskominfojabar/reksa/ubuntu-hardened.sh
+wget https://github.com/diskominfojabar/reksa/refs/heads/main/ubuntu-hardened.sh
 chmod +x ubuntu-hardened.sh
 ```
 
