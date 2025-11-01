@@ -292,12 +292,12 @@ shopt -s histappend
 shopt -s cmdhist
 export PROMPT_COMMAND='history -a; history -n; logger -p local6.info -t "bash[$$]" "USER=$USER PWD=$PWD COMMAND=$(history 1 | sed "s/^[ ]*[0-9]\+[ ]*//")"'
 
-readonly HISTFILE
-readonly HISTFILESIZE
-readonly HISTSIZE
-readonly HISTTIMEFORMAT
-readonly HISTCONTROL
-readonly PROMPT_COMMAND
+readonly HISTFILE 2>/dev/null
+readonly HISTFILESIZE 2>/dev/null
+readonly HISTSIZE 2>/dev/null
+readonly HISTTIMEFORMAT 2>/dev/null
+readonly HISTCONTROL 2>/dev/null
+readonly PROMPT_COMMAND 2>/dev/null
 
 EOFHIST
 
